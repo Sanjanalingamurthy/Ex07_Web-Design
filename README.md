@@ -65,11 +65,11 @@ Enter option for doing the corresponding operation
 </html>
 
 ## OUTPUT
-![cal1](https://github.com/Sanjanalingamurthy/Ex07_Web-Design/assets/127816526/ab0325f3-cabe-4717-87f1-fe9ed5dd72aa)
-![cal2](https://github.com/Sanjanalingamurthy/Ex07_Web-Design/assets/127816526/0d06105b-57cc-4253-bcb0-ab21d7c08f51)
-![cal3](https://github.com/Sanjanalingamurthy/Ex07_Web-Design/assets/127816526/587fcec6-584e-41f4-95da-6b13f3bd5696)
-![cal4](https://github.com/Sanjanalingamurthy/Ex07_Web-Design/assets/127816526/1f1324c7-bc51-46db-800a-67fc4348faa8)
-![cal5](https://github.com/Sanjanalingamurthy/Ex07_Web-Design/assets/127816526/64db9ec3-358f-4856-bc14-d0a013629e7b)
+![cal1](https://github.com/Sanjanalingamurthy/Ex07_Web-Design/assets/127816526/c9a72f10-a810-4930-b967-8efeef2e5e45)
+![cal2](https://github.com/Sanjanalingamurthy/Ex07_Web-Design/assets/127816526/9f77da31-c685-45e0-b538-10592aada8dc)
+![cal3](https://github.com/Sanjanalingamurthy/Ex07_Web-Design/assets/127816526/57628fa8-812e-45e4-a68d-4d4e4b29c923)
+![cal4](https://github.com/Sanjanalingamurthy/Ex07_Web-Design/assets/127816526/15ea85da-0660-411f-b390-555e84a96fda)
+![cal5](https://github.com/Sanjanalingamurthy/Ex07_Web-Design/assets/127816526/79edf81a-80a5-43a5-a5d7-95d599f89465)
 
 
 
