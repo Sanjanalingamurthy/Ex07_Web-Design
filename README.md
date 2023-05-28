@@ -63,6 +63,7 @@ Enter option for doing the corresponding operation
 </p>
 </body>
 </html>
+~~~
 
 ## OUTPUT
 ![cal1](https://github.com/Sanjanalingamurthy/Ex07_Web-Design/assets/127816526/c9a72f10-a810-4930-b967-8efeef2e5e45)
